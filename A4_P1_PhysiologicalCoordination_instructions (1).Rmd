@@ -1,7 +1,7 @@
 ---
 title: "Assignment 4 - Heart rate, respiration and interpersonal coordination"
-author: "Riccardo Fusaroli"
-date: "August 20, 2019"
+author: "Aske Bredahl, Johan Horsmans, Jacob Dalsgaard, Stine Nyhus, Eva Hansen"
+date: "December 04, 2019"
 output: html_document
 ---
 
